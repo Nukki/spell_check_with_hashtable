@@ -8,7 +8,7 @@ It's a project for my CSCI 335 Software Design & Analysis III class.
 
 ---
 
-build: `$ make all`
+* build: `$ make all`
 
 * see stats for Linear Probing in a Hashtable: `$ make run1linear` 
 
